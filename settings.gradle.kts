@@ -8,3 +8,6 @@
  */
 
 rootProject.name = "kmh"
+
+include("annotations")
+include("runtime")
